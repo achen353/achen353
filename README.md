@@ -6,9 +6,9 @@ Here's are some facts about me:
 - 💻 &nbsp; I'm a Master's student at Georgia Tech (expected to graduate in December 2022).
 - 🎓 &nbsp; I received my bachelor's degree (B.S. in Computer Science) at Tech in May 2021.
 - 🌱 &nbsp; I'm all up for learning more about Machine Learning, Deep Learning and Natural Language Processing.
-- ✍️ &nbsp; In my free time, I workout, play basketball and watch TV series as my hobbies.
+- ⛹️‍♂️ &nbsp; In my free time, I workout, play basketball and watch TV series as my hobbies.
 - ✉️ &nbsp; You can email me at achen353@gatech.edu or message me on [LinkedIn](https://www.linkedin.com/in/achen353/).
-- 📄 &nbsp; Check out my [website](https://achen353.github.io/) to learn more about me.
+- 👨‍💻 &nbsp; Check out my [website](https://achen353.github.io/) to learn more.
 
 ### 🛠 &nbsp; Tech Stack
 
