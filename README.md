@@ -2,10 +2,10 @@
 
 Here's are some facts about me:
 
-- 💡 &nbsp; I currently work as an AI Intern at [GliaCloud Co., Ltd.](https://www.gliacloud.com/zh-hant/), building machine learning applications.
-- 💻 &nbsp; I'm a Master's student at Georgia Tech (expected to graduate in December 2022).
+- 💡 &nbsp; I will be joining the Chu Data Lab at Georgia Tech, researching on weakly supervised entity matching under the supervision of Professor Xu Chu.
+- 💻 &nbsp; I'm a Master's student at Georgia Tech (expected to graduate in May 2023).
 - 🎓 &nbsp; I received my bachelor's degree (B.S. in Computer Science) at Tech in May 2021.
-- 🌱 &nbsp; I'm all up for researching robust and cost-efficient ML models and delivering trustworthy AI solutions to production.
+- 🌱 &nbsp; I'm all up for building robust and cost-efficient ML models and delivering trustworthy AI solutions to production.
 - ⛹️‍♂️ &nbsp; In my free time, I enjoy working out, playing basketball and learning new things.
 - ✉️ &nbsp; You can email me at achen353@gatech.edu or message me on [LinkedIn](https://www.linkedin.com/in/achen353/).
 - 👨‍💻 &nbsp; Check out my [website](https://achen353.github.io/) to learn more.
