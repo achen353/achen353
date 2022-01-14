@@ -2,7 +2,7 @@
 
 Here's are some facts about me:
 
-- 💡 &nbsp; I will be joining the Chu Data Lab at Georgia Tech, researching weakly supervised entity matching under the supervision of Professor Xu Chu.
+- 💡 &nbsp; I am a research assistant at the Chu Data Lab at Georgia Tech, researching weakly supervised entity matching and advised by Professor Xu Chu.
 - 💻 &nbsp; I'm a Master's student at Georgia Tech (expected to graduate in May 2023).
 - 🎓 &nbsp; I received my bachelor's degree (B.S. in Computer Science) at Tech in May 2021.
 - 🌱 &nbsp; I'm all up for building robust and cost-efficient ML models and delivering trustworthy AI solutions to production.
