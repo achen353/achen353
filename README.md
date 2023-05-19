@@ -2,13 +2,11 @@
 
 Here's are some facts about me:
 
-- 💡 &nbsp; I am a research assistant at the Chu Data Lab at Georgia Tech, researching weakly supervised entity matching and advised by Professor Xu Chu.
-- 💻 &nbsp; I'm a Master's student at Georgia Tech (expected to graduate in May 2023).
-- 🎓 &nbsp; I received my bachelor's degree (B.S. in Computer Science) at Tech in May 2021.
+- 💡 &nbsp; I'm a software engineer working in the San Francisco Bay Area.
+- 🎓 &nbsp; I graduated from Georgia Tech specializing in machine learning. Happy to connect with aspiring/current Yellow Jackets interested in the tech industry!
 - 🌱 &nbsp; I'm all up for building robust and cost-efficient ML models and delivering trustworthy AI solutions to production.
 - ⛹️‍♂️ &nbsp; In my free time, I enjoy working out, playing basketball and learning new things.
-- ✉️ &nbsp; You can email me at achen353@gatech.edu or message me on [LinkedIn](https://www.linkedin.com/in/achen353/).
-- 👨‍💻 &nbsp; Check out my [website](https://achen353.github.io/) to learn more.
+- ✉️ &nbsp; Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/achen353/).
 
 ### 🛠 &nbsp; Tech Stack
 
