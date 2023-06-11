@@ -41,4 +41,4 @@ Here's are some facts about me:
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google-cloud-platform)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=achen353&count_private=true&theme=merko)
+<!-- ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=achen353&count_private=true&theme=merko) -->
